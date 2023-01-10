@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Some interesting projects that you can find here:
+- [TeTwix](https://github.com/danielamariei/tetwix): A modern version of the Tetris game
+- [Article classification](https://github.com/danielamariei/item-classification): Article classification app using Java & Lucene
+- [Clothing Ontology](https://github.com/danielamariei/clothing-ontology): An ontology regarding clothing and related concepts. 
+- [Semantic Clothing](https://github.com/danielamariei/semantic-clothing): Semantic Clothing Web Application that enables the selection of different clothing items based on the existing wardrobe
+- [Databases Ontology](https://github.com/danielamariei/databases-ontology): An ontology regarding databases and related concepts. 
+- [Databases Ontology Demo App](https://github.com/danielamariei/databases-ontology-demo-app): Demo App for the DBMSs Ontology (databases-ontology)
+- [Talks](https://github.com/danielamariei/talks): Various talks
+
+
 <!--
 **danielamariei/danielamariei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
