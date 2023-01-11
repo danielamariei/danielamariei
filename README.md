@@ -3,7 +3,7 @@
 Some interesting projects that you can find here:
 - [TeTwix](https://vimeo.com/98003746): A modern version of the Tetris game
   - https://github.com/danielamariei/tetwix
-- [Article Classification](https://github.com/danielamariei/item-classification): Article classification on a large corpus of articles using using Java & Lucene
+- [Company Classification](https://github.com/danielamariei/company-classification): Company classification on a large corpus of articles using using Java & Lucene
 - [Points Distance](https://github.com/danielamariei/points-distance): Point Distance calculation on a large corpus of input points using different approaches 
 - [Clothing Ontology](https://github.com/danielamariei/clothing-ontology): An ontology regarding clothing and related concepts. 
 - [Semantic Clothing](https://github.com/danielamariei/semantic-clothing): Semantic Clothing Web Application that enables the selection of different clothing items based on the existing wardrobe
