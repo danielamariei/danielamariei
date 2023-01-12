@@ -1,3 +1,8 @@
+* [Hi there](https://github.com/danielamariei#hi-there-)
+* [Talks](https://github.com/danielamariei#talks-)
+* [Contact me](https://github.com/danielamariei#contact-me-)
+* [Projects](https://github.com/danielamariei#projects-)
+
 ### Hi there 👋
 
 Some interesting projects that you can find here:
@@ -10,6 +15,11 @@ Some interesting projects that you can find here:
 - [Databases Ontology](https://github.com/danielamariei/databases-ontology): An ontology regarding databases and related concepts. 
 - [Databases Ontology Demo App](https://github.com/danielamariei/databases-ontology-demo-app): Demo App for the DBMSs Ontology (databases-ontology)
 - [Talks](https://github.com/danielamariei/talks): Various talks
+
+## Contact me ✍
+
+## Projects 📋
+Here are some projects I've been working on (sharing is caring).
 
 
 ### Talks 👨‍🏫
