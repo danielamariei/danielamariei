@@ -24,18 +24,19 @@ Here are some projects I've been working on (sharing is caring).
 
 ## Talks 👨‍🏫
 
-#### Monologue for the Cloud
+### Monologue for the Cloud
 
 **Presentation**: [Monologue for the Cloud](https://github.com/danielamariei/talks/tree/master/monologue-for-the-cloud)
 
 The purpose of this presentation is to introduce the concept of Cloud computing. In order to accomplish this, we structured the presentation as follows:
+
 * **Main characteristics**: In this section, we describe the main characteristics that Cloud computing exhibits.
 * **Architecture and service models**: This section provides details regarding the architecture of the Cloud, together with the stack of service models.
 * **Advantages. Disadvantages**: In this section, we present the duality between the advantages and disadvantages of Cloud computing.
 * **Cloud providers**: We enumerate some of the most popular Cloud computing platforms. We conclude with a description of OpenStack, an open-source Cloud computing platform.
 * **Do we use the Cloud?**: In the final part of the presentation, we conclude with a description of several popular freely available web applications that are empowered by the Cloud.
 
-#### Natural/unconventional interfaces and game resurrection
+### Natural/unconventional interfaces and game resurrection
 
 **Presentation**: [Natural/unconventional interfaces and game resurrection](https://github.com/danielamariei/talks/tree/master/natural-unconventional-interfaces-and-game-resurrection)
 
@@ -44,20 +45,16 @@ The purpose of this presentation is twofold. Firstly, we explore unconventional 
 * **Nontraditional interfaces**: In this section of the presentation, we expose the main characteristics for each interaction method, as well as the general context which enables them to be used as a day-to-day technology. Several examples are also included.
 * **Tetris GamR (Game Resurrection)**: We describe the main aspects of our developed game. As the game proposes a modern version of Tetris, it supports multiplayer game modes, while user(s) are able to use natural I/O devices and interaction methods such as: gestural (Leap Motion), locomotion (Makey Makey), etc. The game is attractive for various population segments and can be used as a means for having fun or to carry out cardio exercises, a serious game, and many others.
 
+### RESTing on MVC using Node.js and Express
 
-#### Monologue for the Cloud
+**Presentation**: [RESTing on MVC using Node.js and Express](https://github.com/danielamariei/talks/tree/master/rest-mvc-express)
 
-
-**Presentation**: [Monologue for the Cloud](https://github.com/danielamariei/talks/tree/master/monologue-for-the-cloud)
-
-The purpose of this presentation is to introduce the concept of Cloud computing. In order to accomplish this, we structured the presentation as follows:
-
-* **Main characteristics**: In this section, we describe the main characteristics that Cloud computing exhibits.
-* **Architecture and service models**: This section provides details regarding the architecture of the Cloud, together with the stack of service models.
-* **Advantages. Disadvantages**: In this section, we present the duality between the advantages and disadvantages of Cloud computing.
-* **Cloud providers**: We enumerate some of the most popular Cloud computing platforms. We conclude with a description of OpenStack, an open-source Cloud computing platform.
-* **Do we use the Cloud?**: In the final part of the presentation, we conclude with a description of several popular freely available web applications that are empowered by the Cloud.
-
+In this talk we review some of the basics aspects that we deal with when developing software for the World Wide Web (WWW). Some of the topics that are discussed include:
+* **What a Pattern is and the different types;**
+* **The MVC Architectural Pattern;**
+* **The REST Architectural style;**
+* **The Node.js framwork;**
+* **Creating a basic application using Express.**
 
 <!--
 **danielamariei/danielamariei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
