@@ -1,7 +1,7 @@
 * [Hi there](https://github.com/danielamariei#hi-there-)
-* [Talks](https://github.com/danielamariei#talks-)
 * [Contact me](https://github.com/danielamariei#contact-me-)
 * [Projects](https://github.com/danielamariei#projects-)
+* [Talks](https://github.com/danielamariei#talks-)
 
 ### Hi there 👋
 
