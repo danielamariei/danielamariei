@@ -4,28 +4,31 @@
 * [Talks](https://github.com/danielamariei#talks-)
 
 ### Hi there 👋
+Hi there! My name is Daniel.
 
-Some interesting projects that you can find here:
- 
-
-- [Talks](https://github.com/danielamariei/talks): Various talks
 
 ## Contact me ✍
+Drop me a note or get in touch with me: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdidsTCj9zd0gAEh-BcfCatbCa-2fmFDFItFnDSj57JjAcTDA/viewform). 
 
 ## Projects 📋
 Here are some projects I've been working on (sharing is caring).
 
 ### TeTwix
-**GitHub repo**: https://github.com/danielamariei/tetwix
 
-A modern version of the Tetris game.
+**Tetris GamR (Game Resurrection)**
+* **GitHub repo**: https://github.com/danielamariei/tetwix
+* **You can see a demo of the game here**: [TeTwix](https://vimeo.com/98003746)
 
-You can see a demo of the game here: [TeTwix](https://vimeo.com/98003746)
+The game proposes a modern version of Tetris, it supports multiplayer game modes, while user(s) are able to use natural I/O devices and interaction methods such as: gestural ([Leap Motion](https://www.ultraleap.com/product/leap-motion-controller/)), locomotion ([Makey Makey](https://makeymakey.com/)), etc. The game is attractive for various population segments and can be used as a means for having fun or to carry out cardio exercises, a serious game, and many others.
 
 ### Company Classification 
 **GitHub repo**: https://github.com/danielamariei/company-classification
 
-Company classification on a large corpus of articles using using Java & Lucene
+* Exploratory Java application for indexing a corpus of articles and searching companies in the corpus of articles using different strategies
+* Exploring the use of Lucene for indexing text and searching the index using various Query techniques
+* Fine-tuning for optimal results is required and is context-dependent
+* Please take into consideration that this is a specific use-case and the same technique/approach can be used in other contexts (e.g., DNA sequencing, finding specific faults in sets of wafers to be inspected, etc.)
+
 
 ### Points Distance 
 **GitHub repo**: https://github.com/danielamariei/points-distance
@@ -35,22 +38,25 @@ Point Distance calculation on a large corpus of input points using different app
 ### Clothing Ontology
 **GitHub repo**: https://github.com/danielamariei/clothing-ontology
 
-An ontology regarding clothing and related concepts. 
+The purpose of this ontology is to create the common conceptual framework for 'talking' about clothing and/or related concepts. This should provide a common vocabulary for this domain.
 
 ### Semantic Clothing
 **GitHub repo**: https://github.com/danielamariei/semantic-clothing
 
-Semantic Clothing Web Application that enables the selection of different clothing items based on the existing wardrobe
+Semantic Clothing Web Application that enables the selection of different clothing items based on the existing wardrobe. Some people have difficulties when choosing the right vestment for a certain type of event (_i.e._, interview, dinner party, show, etc.). The purpose of the project is to create an Web Application that enables the selection of different clothing items based on the existing wardrobe; the information of interest can be obtained from [DBpedia](http://wiki.dbpedia.org/About) or
+ [Freebase](https://developers.google.com/freebase/). The application will offer suggestions that take into account the fashion proclivity, the season, or different preferences that the user has. Moreover, the user will be able to receive information regarding the purchasing of different items of interest, taking into account its geographic localization.
 
 ### Databases Ontology 
 **GitHub repo**: https://github.com/danielamariei/databases-ontology
 
-An ontology regarding databases and related concepts. 
+The purpose of this ontology is to create the common conceptual framework for 'talking' about databases and/or related concepts. This should provide a common vocabulary for the domain.
 
 ### Databases Ontology Demo App 
 **GitHub repo**: https://github.com/danielamariei/databases-ontology-demo-app
 
-Demo App for the DBMSs Ontology (databases-ontology)
+The purpose of this application is to provide a demo for the usage of the Database Management Systems Ontology (DBMSs Ontology) ontology. It provides an interactive comparison of different characteristics of interest for several databases.
+
+For more details regarding the DBMSs Ontology please consult the dedicated repository: https://github.com/danielamariei/databases-ontology/.
 
 
 ## Talks 👨‍🏫
