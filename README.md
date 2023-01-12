@@ -22,7 +22,7 @@ Some interesting projects that you can find here:
 Here are some projects I've been working on (sharing is caring).
 
 
-### Talks 👨‍🏫
+## Talks 👨‍🏫
 
 #### Monologue for the Cloud
 
