@@ -16,7 +16,6 @@ Here are some projects I've been working on (sharing is caring).
 In the meantime, you can [play a nice game developed that I've worked on 🎮](https://danielamariei.github.io/tetwix/serverless/).
 
 ### TeTwix
-
 **Tetris GamR (Game Resurrection)**
 * [Play the game](https://danielamariei.github.io/tetwix/serverless/)
 * **GitHub repo**: https://github.com/danielamariei/tetwix
