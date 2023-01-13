@@ -13,10 +13,12 @@ Drop me a note or get in touch with me: [Google Form](https://docs.google.com/fo
 ## Projects 📋
 Here are some projects I've been working on (sharing is caring).
 
+In the meantime, you can [play a nice game developed by me 🎮](https://danielamariei.github.io/tetwix/serverless/).
+
 ### TeTwix
 
 **Tetris GamR (Game Resurrection)**
-* [Play the game](http://localhost:63342/tetwix/serverless/)
+* [Play the game](https://danielamariei.github.io/tetwix/serverless/)
 * **GitHub repo**: https://github.com/danielamariei/tetwix
 * **You can see a demo of the game here**: [TeTwix](https://vimeo.com/98003746) 
 
