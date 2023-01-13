@@ -16,8 +16,9 @@ Here are some projects I've been working on (sharing is caring).
 ### TeTwix
 
 **Tetris GamR (Game Resurrection)**
+* [Play the game](http://localhost:63342/tetwix/serverless/)
 * **GitHub repo**: https://github.com/danielamariei/tetwix
-* **You can see a demo of the game here**: [TeTwix](https://vimeo.com/98003746)
+* **You can see a demo of the game here**: [TeTwix](https://vimeo.com/98003746) 
 
 The game proposes a modern version of Tetris, it supports multiplayer game modes, while user(s) are able to use natural I/O devices and interaction methods such as: gestural ([Leap Motion](https://www.ultraleap.com/product/leap-motion-controller/)), locomotion ([Makey Makey](https://makeymakey.com/)), etc. The game is attractive for various population segments and can be used as a means for having fun or to carry out cardio exercises, a serious game, and many others.
 
