@@ -71,7 +71,7 @@ The purpose of this application is to provide a demo for the usage of the Databa
 
 For more details regarding the DBMSs Ontology please consult the dedicated repository: https://github.com/danielamariei/databases-ontology/.
 
-**Tech: Node.js, Stardog, OWL 2, SPARQl**
+**Tech: Node.js, Stardog, OWL 2, SPARQL**
 
 ## Talks 👨‍🏫
 
