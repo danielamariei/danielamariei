@@ -23,6 +23,8 @@ In the meantime, you can [play a nice game that I've worked on 🎮](https://dan
 
 The game proposes a modern version of Tetris, it supports multiplayer game modes, while user(s) are able to use natural I/O devices and interaction methods such as: gestural ([Leap Motion](https://www.ultraleap.com/product/leap-motion-controller/)), locomotion ([Makey Makey](https://makeymakey.com/)), etc. The game is attractive for various population segments and can be used as a means for having fun or to carry out cardio exercises, a serious game, and many others.
 
+**Tech: JavaScript, HTML, CSS, Leap Motion Controller, Makey Makey**
+
 ### Company Classification 
 **GitHub repo**: https://github.com/danielamariei/company-classification
 
@@ -31,27 +33,36 @@ The game proposes a modern version of Tetris, it supports multiplayer game modes
 * Fine-tuning for optimal results is required and is context-dependent
 * Please take into consideration that this is a specific use-case and the same technique/approach can be used in other contexts (e.g., DNA sequencing, finding specific faults in sets of wafers to be inspected, etc.)
 
+**Tech: Java, Spring, Spring Boot, Lucene, Gradle**
 
 ### Points Distance 
 **GitHub repo**: https://github.com/danielamariei/points-distance
 
-Point Distance calculation on a large corpus of input points using different approaches 
+Point Distance calculation on a large corpus of input points using different approaches. Determines the optimal set of points according to predefined metrics (i.e., closest, farthest to the reference point). Provides different proximity calculator possibilities (e.g., Priority Queues, Sorting, etc.); abstracts different strategies. Ability to read the points from different sources: binary file, JSON, etc. Provides support for reading the input in a lazy fashion through iterators.
+
+**Tech: Java, Spring, Spring Boot, Gradle**
 
 ### Clothing Ontology
 **GitHub repo**: https://github.com/danielamariei/clothing-ontology
 
 The purpose of this ontology is to create the common conceptual framework for 'talking' about clothing and/or related concepts. This should provide a common vocabulary for this domain.
 
+**Tech: OWL 2 Web Ontology Language, SPARQL Query Language for RDF**
+
 ### Semantic Clothing
 **GitHub repo**: https://github.com/danielamariei/semantic-clothing
 
 Semantic Clothing Web Application that enables the selection of different clothing items based on the existing wardrobe. Some people have difficulties when choosing the right vestment for a certain type of event (_i.e._, interview, dinner party, show, etc.). The purpose of the project is to create an Web Application that enables the selection of different clothing items based on the existing wardrobe; the information of interest can be obtained from [DBpedia](http://wiki.dbpedia.org/About) or
  [Freebase](https://developers.google.com/freebase/). The application will offer suggestions that take into account the fashion proclivity, the season, or different preferences that the user has. Moreover, the user will be able to receive information regarding the purchasing of different items of interest, taking into account its geographic localization.
+ 
+ **Tech: REST, RAML, OWL 2, SPARQL, Stardog, Scala, PHP, JavaScrip, HTML, CSS**
 
 ### Databases Ontology 
 **GitHub repo**: https://github.com/danielamariei/databases-ontology
 
 The purpose of this ontology is to create the common conceptual framework for 'talking' about databases and/or related concepts. This should provide a common vocabulary for the domain.
+
+**Tech: OWL 2 Web Ontology Language, SPARQL Query Language for RDF**
 
 ### Databases Ontology Demo App 
 **GitHub repo**: https://github.com/danielamariei/databases-ontology-demo-app
@@ -60,6 +71,7 @@ The purpose of this application is to provide a demo for the usage of the Databa
 
 For more details regarding the DBMSs Ontology please consult the dedicated repository: https://github.com/danielamariei/databases-ontology/.
 
+**Tech: Node.js, Stardog, OWL 2, SPARQl**
 
 ## Talks 👨‍🏫
 
