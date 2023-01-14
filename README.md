@@ -13,7 +13,7 @@ Drop me a note or get in touch with me: [Google Form](https://docs.google.com/fo
 ## Projects 📋
 Here are some projects I've been working on (sharing is caring).
 
-In the meantime, you can [play a nice game developed that I've worked on 🎮](https://danielamariei.github.io/tetwix/serverless/).
+In the meantime, you can [play a nice game that I've worked on 🎮](https://danielamariei.github.io/tetwix/serverless/).
 
 ### TeTwix
 **Tetris GamR (Game Resurrection)**
