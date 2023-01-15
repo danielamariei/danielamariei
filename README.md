@@ -149,6 +149,24 @@ Practical examples for the including, but not limited to:
 #program-analysis, #ProgramAnalysis, #Cppcheck, #cpp-check
 
 
+### Insufficient Process Validation
+
+**Presentation**: [Insufficent Process Validation](https://github.com/danielamariei/talks/tree/master/insufficient-process-validation)
+
+
+The purpose of this talk is to cover how `Insufficient Process Validation` occurs when a Web Application fails to prevent an attacker from circumventing the intended flow or business logic of the application [1]. For example, if the user state through a process is not sufficiently well verified, the Web Site is vulnerable to exploitation or fraud.
+
+We cover practical examples that depict `Insuficient Process Validation` situations:
+* `best-buy`: Entering negative values on donation forms.
+* `list`: Listing directories without beeing authenticated.
+* `youtube`: Accessing restricted content.
+
+
+**#OWASP, #InsuficientProcessValidation**
+
+
+
+
 
 <!--
 **danielamariei/danielamariei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
