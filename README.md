@@ -178,6 +178,14 @@ The presentation introduce the following SQL Injection Tools: Pangolin and sqlma
 
 **#OWASP, #SQLInjectin, #PenetrationTesting**
 
+
+### w3af: Web Application Attack and Audit Framework
+
+**Presentation**: [w3af: Web Application Attack and Audit Framework](https://github.com/danielamariei/talks/tree/master/w3af)
+
+The presentation introduce the w3af Web Application Attack and Audit Framework. The project helps reduce a site's overall exposure by helping project developers detect more than 200 application vulnerabilities.
+
+
 <!--
 **danielamariei/danielamariei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
