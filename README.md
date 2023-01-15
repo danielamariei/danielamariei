@@ -165,8 +165,18 @@ We cover practical examples that depict `Insuficient Process Validation` situati
 **#OWASP, #InsuficientProcessValidation**
 
 
+### SQL Injection Tools: Pangoling and sqlmap
 
+**Presentation**: [SQL Injection Tools: Pangoling and sqlmap](https://github.com/danielamariei/talks/tree/master/pangoling-and-sqlmap)
 
+The presentation introduce the following SQL Injection Tools: Pangolin and sqlmap. These are penetration testing tools that automate the process of detecting and exploiting SQL Injection vulnerabilities. Pangolin is a penetration testing, SQL Injection test tool for database security. Its main purpose is to detect and exploit SQL Injection vulnerabilities. Following the detection of SQL Injection vulnerabilities, the users have available a plethora of options to choose their further exploration, including: 
+* perform a DBMS fingerprint; 
+* retrieve DBMS session user and database;
+* enumerate users, password hashes, privileges, databases, etc.;
+* run specific SQL statements;
+* etc.
+
+**#OWASP, #SQLInjectin, #PenetrationTesting**
 
 <!--
 **danielamariei/danielamariei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
