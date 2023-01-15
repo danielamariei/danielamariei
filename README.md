@@ -1,24 +1,7 @@
 * [Hi there 👋](#hi-there-)
 * [Contact me ✍](#contact-me-)
 * [Projects 📋](#projects-)
-  * [TeTwix](#tetwix)
-  * [Company Classification](#company-classification)
-  * [Points Distance](#points-distance)
-  * [Clothing Ontology](#clothing-ontology)
-  * [Semantic Clothing](#semantic-clothing)
-  * [Databases Ontology](#databases-ontology)
-  * [Databases Ontology Demo App](#databases-ontology-demo-app)
-  * [Movie Recommendation](#movie-recommendation)
 * [Talks 👨‍🏫](#talks-)
-  * [Monologue for the Cloud](#monologue-for-the-cloud)
-  * [Natural/unconventional interfaces and game resurrection](#naturalunconventional-interfaces-and-game-resurrection)
-  * [RESTing on MVC using Node.js and Express](#resting-on-mvc-using-nodejs-and-express)
-  * [AOP Case Studies](#aop-case-studies)
-  * [Cppcheck Your Code](#cppcheck-your-code)
-  * [Insufficient Process Validation](#insufficient-process-validation)
-  * [SQL Injection Tools: Pangoling and sqlmap](#sql-injection-tools-pangoling-and-sqlmap)
-  * [w3af: Web Application Attack and Audit Framework](#w3af-web-application-attack-and-audit-framework)
-
 
 ### Hi there 👋
 Hi there! My name is Daniel.
@@ -31,6 +14,16 @@ Drop me a note or get in touch with me: [Google Form](https://docs.google.com/fo
 Here are some projects I've been working on (sharing is caring).
 
 In the meantime, you can [play a nice game that I've worked on 🎮](https://danielamariei.github.io/tetwix/serverless/).
+
+* [TeTwix](#tetwix)
+* [Company Classification](#company-classification)
+* [Points Distance](#points-distance)
+* [Clothing Ontology](#clothing-ontology)
+* [Semantic Clothing](#semantic-clothing)
+* [Databases Ontology](#databases-ontology)
+* [Databases Ontology Demo App](#databases-ontology-demo-app)
+* [Movie Recommendation](#movie-recommendation)
+
 
 ### TeTwix
 **Tetris GamR (Game Resurrection)**
@@ -109,6 +102,17 @@ The purpose of this project is to provide movie recommendations based on the rat
 **Tech: Hadoop, Apache Pig, Apache Hive, Python**
 
 ## Talks 👨‍🏫
+
+* [Monologue for the Cloud](#monologue-for-the-cloud)
+* [Natural/unconventional interfaces and game resurrection](#naturalunconventional-interfaces-and-game-resurrection)
+* [RESTing on MVC using Node.js and Express](#resting-on-mvc-using-nodejs-and-express)
+* [AOP Case Studies](#aop-case-studies)
+* [Cppcheck Your Code](#cppcheck-your-code)
+* [Insufficient Process Validation](#insufficient-process-validation)
+* [SQL Injection Tools: Pangoling and sqlmap](#sql-injection-tools-pangoling-and-sqlmap)
+* [w3af: Web Application Attack and Audit Framework](#w3af-web-application-attack-and-audit-framework)
+
+
 
 ### Monologue for the Cloud
 
