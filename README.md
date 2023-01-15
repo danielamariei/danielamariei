@@ -122,7 +122,7 @@ In this talk with go over some Aspect Oriented Programming (AOP) case studies, t
 
 **Presentation**: [Cppcheck Your Code](https://github.com/danielamariei/talks/tree/master/cpp-check-your-code)
 
-The purpose of this talk is to offer a concise view of program analysis, especially static program analysis, using Cppcheck as a tool. The presentation covers topic as follows: 
+The purpose of this talk is to offer a concise view of program analysis, especially static program analysis, using **Cppcheck** as a tool. The presentation covers topic as follows: 
 * the levels at which a program analysis can be performed; 
 * program analysis and possible approaches in performing it; 
 * Cppcheck presentation, both from an architectural and practical standpoints
