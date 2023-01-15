@@ -111,7 +111,7 @@ In this talk we review some of the basics aspects that we deal with when develop
 
 **Presentation**: [AOP Case Studies](https://github.com/danielamariei/talks/tree/master/aop-case-studies)
 
-In this talk with go over some Aspect Oriented Programming (AOP) case studies.
+In this talk with go over some Aspect Oriented Programming (AOP) case studies, together with some practical examples.
 
 * Using AOP with class hierarchies
 * Runtime measurement: 
