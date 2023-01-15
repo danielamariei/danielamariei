@@ -1,7 +1,24 @@
-* [Hi there](https://github.com/danielamariei#hi-there-)
-* [Contact me](https://github.com/danielamariei#contact-me-)
-* [Projects](https://github.com/danielamariei#projects-)
-* [Talks](https://github.com/danielamariei#talks-)
+* [Hi there 👋](#hi-there-)
+* [Contact me ✍](#contact-me-)
+* [Projects 📋](#projects-)
+  * [TeTwix](#tetwix)
+  * [Company Classification](#company-classification)
+  * [Points Distance](#points-distance)
+  * [Clothing Ontology](#clothing-ontology)
+  * [Semantic Clothing](#semantic-clothing)
+  * [Databases Ontology](#databases-ontology)
+  * [Databases Ontology Demo App](#databases-ontology-demo-app)
+  * [Movie Recommendation](#movie-recommendation)
+* [Talks 👨‍🏫](#talks-)
+  * [Monologue for the Cloud](#monologue-for-the-cloud)
+  * [Natural/unconventional interfaces and game resurrection](#naturalunconventional-interfaces-and-game-resurrection)
+  * [RESTing on MVC using Node.js and Express](#resting-on-mvc-using-nodejs-and-express)
+  * [AOP Case Studies](#aop-case-studies)
+  * [Cppcheck Your Code](#cppcheck-your-code)
+  * [Insufficient Process Validation](#insufficient-process-validation)
+  * [SQL Injection Tools: Pangoling and sqlmap](#sql-injection-tools-pangoling-and-sqlmap)
+  * [w3af: Web Application Attack and Audit Framework](#w3af-web-application-attack-and-audit-framework)
+
 
 ### Hi there 👋
 Hi there! My name is Daniel.
