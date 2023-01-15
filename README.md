@@ -87,6 +87,8 @@ The purpose of this presentation is to introduce the concept of Cloud computing.
 * **Cloud providers**: We enumerate some of the most popular Cloud computing platforms. We conclude with a description of OpenStack, an open-source Cloud computing platform.
 * **Do we use the Cloud?**: In the final part of the presentation, we conclude with a description of several popular freely available web applications that are empowered by the Cloud.
 
+**#cloud-computing, #IaaS, #PaaS, #SaaS, #CloudComputing**
+
 ### Natural/unconventional interfaces and game resurrection
 
 **Presentation**: [Natural/unconventional interfaces and game resurrection](https://github.com/danielamariei/talks/tree/master/natural-unconventional-interfaces-and-game-resurrection)
@@ -95,6 +97,8 @@ The purpose of this presentation is twofold. Firstly, we explore unconventional 
 
 * **Nontraditional interfaces**: In this section of the presentation, we expose the main characteristics for each interaction method, as well as the general context which enables them to be used as a day-to-day technology. Several examples are also included.
 * **Tetris GamR (Game Resurrection)**: We describe the main aspects of our developed game. As the game proposes a modern version of Tetris, it supports multiplayer game modes, while user(s) are able to use natural I/O devices and interaction methods such as: gestural (Leap Motion), locomotion (Makey Makey), etc. The game is attractive for various population segments and can be used as a means for having fun or to carry out cardio exercises, a serious game, and many others.
+
+**#HCI**
 
 ### RESTing on MVC using Node.js and Express
 
@@ -107,6 +111,8 @@ In this talk we review some of the basics aspects that we deal with when develop
 * **The Node.js framwork;**
 * **Creating a basic application using Express.**
 
+**#REST, #HTTP, #MVC, #Node.js, ##DesignPatterns**
+
 ### AOP Case Studies
 
 **Presentation**: [AOP Case Studies](https://github.com/danielamariei/talks/tree/master/aop-case-studies)
@@ -117,6 +123,8 @@ In this talk with go over some Aspect Oriented Programming (AOP) case studies, t
 * Runtime measurement: 
   * AOP 
   * The classical approach
+
+**#AOP, #AspectOrientedProgramming**
 
 ### Cppcheck Your Code
 
@@ -138,7 +146,7 @@ Practical examples for the including, but not limited to:
 * detection of redundant conditional expressions
 * configuration possibilities
 
-#program-analysis, #programAnalysis, #cppcheck, #cpp-check
+#program-analysis, #ProgramAnalysis, #Cppcheck, #cpp-check
 
 
 
