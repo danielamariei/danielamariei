@@ -118,6 +118,30 @@ In this talk with go over some Aspect Oriented Programming (AOP) case studies, t
   * AOP 
   * The classical approach
 
+### Cppcheck Your Code
+
+**Presentation**: [Cppcheck Your Code](https://github.com/danielamariei/talks/tree/master/cpp-check-your-code)
+
+The purpose of this talk is to offer a concise view of program analysis, especially static program analysis, using Cppcheck as a tool. The presentation covers topic as follows: 
+* the levels at which a program analysis can be performed; 
+* program analysis and possible approaches in performing it; 
+* Cppcheck presentation, both from an architectural and practical standpoints
+
+Practical examples for the including, but not limited to:
+* out of bonds errors
+* unitialized variable error
+* unused function errors 
+* unused variable errors
+* buffer overflow errros
+* using initialized memory only
+* must free the buffer after using it
+* detection of redundant conditional expressions
+* configuration possibilities
+
+#program-analysis, #programAnalysis, #cppcheck, #cpp-check
+
+
+
 <!--
 **danielamariei/danielamariei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
