@@ -107,6 +107,17 @@ In this talk we review some of the basics aspects that we deal with when develop
 * **The Node.js framwork;**
 * **Creating a basic application using Express.**
 
+### AOP Case Studies
+
+**Presentation**: [AOP Case Studies](https://github.com/danielamariei/talks/tree/master/aop-case-studies)
+
+Aspect Oriented Programming (AOP) case studies.
+
+* Using AOP with class hierarchies
+* Runtime measurement: 
+  * AOP 
+  * The classical approach
+
 <!--
 **danielamariei/danielamariei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
