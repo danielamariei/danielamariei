@@ -170,7 +170,6 @@ In this talk with go over some Aspect Oriented Programming (AOP) case studies, t
 
 **Presentation**: [Erlang](https://github.com/danielamariei/talks/tree/master/erlang)
 
-### Introduction
 The purpose of this presentation is to describe the Erlang programming language together with a few concepts that entail a better understanding of the context. The presentation will cover the following aspects:
 * consistency models and examples
 * concurrency and parallelism and the difference between them
