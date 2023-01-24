@@ -107,6 +107,7 @@ The purpose of this project is to provide movie recommendations based on the rat
 * [Natural/unconventional interfaces and game resurrection](#naturalunconventional-interfaces-and-game-resurrection)
 * [RESTing on MVC using Node.js and Express](#resting-on-mvc-using-nodejs-and-express)
 * [AOP Case Studies](#aop-case-studies)
+* [Erlang](@erlang)
 * [Cppcheck Your Code](#cppcheck-your-code)
 * [Insufficient Process Validation](#insufficient-process-validation)
 * [SQL Injection Tools: Pangoling and sqlmap](#sql-injection-tools-pangoling-and-sqlmap)
@@ -164,6 +165,22 @@ In this talk with go over some Aspect Oriented Programming (AOP) case studies, t
   * The classical approach
 
 **#AOP, #AspectOrientedProgramming**
+
+### Erlang
+
+**Presentation**: [Erlang](https://github.com/danielamariei/talks/tree/master/erlang)
+
+### Introduction
+The purpose of this presentation is to describe the Erlang programming language together with a few concepts that entail a better understanding of the context. The presentation will cover the following aspects:
+* consistency models and examples
+* concurrency and parallelism and the difference between them
+* concurrency models 
+* the Actor mode
+* the Erlang programming language
+* programming examples
+
+
+**#Erlang, #ConsistencyModels, #Concurrency, #Parallelism, #ActorModel**
 
 ### Cppcheck Your Code
 
