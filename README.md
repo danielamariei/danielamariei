@@ -107,7 +107,7 @@ The purpose of this project is to provide movie recommendations based on the rat
 * [Natural/unconventional interfaces and game resurrection](#naturalunconventional-interfaces-and-game-resurrection)
 * [RESTing on MVC using Node.js and Express](#resting-on-mvc-using-nodejs-and-express)
 * [AOP Case Studies](#aop-case-studies)
-* [Erlang](@erlang)
+* [Erlang](#erlang)
 * [Cppcheck Your Code](#cppcheck-your-code)
 * [Insufficient Process Validation](#insufficient-process-validation)
 * [SQL Injection Tools: Pangoling and sqlmap](#sql-injection-tools-pangoling-and-sqlmap)
