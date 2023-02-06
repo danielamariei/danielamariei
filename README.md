@@ -18,6 +18,7 @@ In the meantime, you can [play a nice game that I've worked on 🎮](https://dan
 * [TeTwix](#tetwix)
 * [Company Classification](#company-classification)
 * [Points Distance](#points-distance)
+* [Product Ratings](#product-ratings)
 * [Clothing Ontology](#clothing-ontology)
 * [Semantic Clothing](#semantic-clothing)
 * [Databases Ontology](#databases-ontology)
@@ -51,6 +52,18 @@ The game proposes a modern version of Tetris, it supports multiplayer game modes
 Point Distance calculation on a large corpus of input points using different approaches. Determines the optimal set of points according to predefined metrics (i.e., closest, farthest to the reference point). Provides different proximity calculator possibilities (e.g., Priority Queues, Sorting, etc.); abstracts different strategies. Ability to read the points from different sources: binary file, JSON, etc. Provides support for reading the input in a lazy fashion through iterators.
 
 **Tech: Java, Spring, Spring Boot, Gradle**
+
+### Product Ratings
+**GitHub repo**: https://github.com/danielamariei/product-ratings
+
+- Java Application that reads a large corpus of product ratings, processes them, and computes relevant metrics. 
+- Uses the Java API for Bean Validation (JSR 380) to ensure that fields meet specific criteria in a declarative format.
+- Ability to read the points from different sources: binary file, JSON, etc. 
+- Provides support for reading the input in a lazy fashion through iterators. 
+- Optimally determines the top k best rated and worst rated products by using a Priority Queue. 
+
+
+**Tech: Java, Spring, Spring Boot, Gradle, Java API for Bean Validation (JSR 380)**
 
 ### Clothing Ontology
 **GitHub repo**: https://github.com/danielamariei/clothing-ontology
