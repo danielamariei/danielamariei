@@ -83,7 +83,8 @@ Semantic Clothing Web Application that enables the selection of different clothi
 ### Databases Ontology 
 **GitHub repo**: https://github.com/danielamariei/databases-ontology
 
-The purpose of this ontology is to create the common conceptual framework for 'talking' about databases and/or related concepts. This should provide a common vocabulary for the domain.
+The purpose of this ontology is to create the common conceptual framework for 'talking' about databases and/or related concepts. This should provide a common vocabulary for the domain. The results are captured in the following paper: [S. C. Buraga, D. Amariei and O. Dospinescu, "An owl-based specification of database management systems," Computers, Materials & Continua, vol. 70, no.3, pp. 5537–5550, 2022.](https://www.techscience.com/cmc/v70n3/45029)
+
 
 **Tech: OWL 2 Web Ontology Language, SPARQL Query Language for RDF**
 
