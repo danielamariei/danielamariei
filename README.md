@@ -1,11 +1,10 @@
-* [Hi there 👋](#hi-there-)
+* [Good thoughts 🖖](#good-thoughts-)
 * [Contact me ✍](#contact-me-)
 * [Projects 📋](#projects-)
 * [Talks 👨‍🏫](#talks-)
 
-### Hi there 👋
+### Good thoughts 🖖
 Hi there! My name is Daniel.
-
 
 ## Contact me ✍
 Drop me a note or get in touch with me: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdidsTCj9zd0gAEh-BcfCatbCa-2fmFDFItFnDSj57JjAcTDA/viewform). 
