@@ -10,7 +10,7 @@ Hi there! My name is Daniel.
 Drop me a note or get in touch with me: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdidsTCj9zd0gAEh-BcfCatbCa-2fmFDFItFnDSj57JjAcTDA/viewform). 
 
 ## Projects 📋
-Here are some projects I've been working on. You can also [play a nice game that I've worked on 🎮](https://danielamariei.github.io/tetwix/serverless/).
+Here are some projects I've been working on. You can also [play TeTwix, a nice game developed by me and a colleague 🎮](https://danielamariei.github.io/tetwix/serverless/).
 
 * [TeTwix](#tetwix)
 * [Company Classification](#company-classification)
